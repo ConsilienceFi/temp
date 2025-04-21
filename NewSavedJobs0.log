@@ -4282,3 +4282,673 @@ gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, a
 gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
 gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: true, initialLoadDone: false, …}
 gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507076429
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: true, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: true, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507076429
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+gptengineer.js:1 [useSubscription] Data fetch completed successfully
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 506113666
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507238140
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 506654121
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507390344
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 506762150
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507076429
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+gptengineer.js:1 [useSubscription] Data fetch completed successfully
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 506113666
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507226720
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507076429
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+gptengineer.js:1 [useSubscription] Data fetch completed successfully
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 506762150
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507226720
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507076429
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+gptengineer.js:1 [useSubscription] Data fetch completed successfully
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507390344
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506762150
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507226720
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507076429
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: false, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [UpgradeModal] Rendering with values: {limitType: 'searches', currentCount: 0, limit: 0, isOpen: false, isLoading: false, …}
+ [useSubscription] Data fetch completed successfully
+ [start of job card] id: 506113666
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 507238140
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [start of job card] id: 506654121
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+ [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+ [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507390344
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 506762150
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507226720
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [start of job card] id: 507076429
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
+gptengineer.js:1 [useSubscription] Init - Auth status: {isAuthenticated: true, authLoading: false, userId: 'VDNSMeBPlkP7vzzxxr4uX8Sso9t2', storeIsLoading: false, initialLoadDone: true, …}
+gptengineer.js:1 [useSubscription] Premium status determined: {isPremium: false, userIsPremium: false, planId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanId: 'krEnfmvKPme5JTQNZ6Sq', currentPlanPrice: 0}
